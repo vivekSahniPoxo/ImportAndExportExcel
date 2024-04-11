@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="write_fail">Write Failed</string>
+    <string name="read_fail">Read Failed</string>
+    <string name="set_lock">Lock</string>
+    <string name="set_epc">EPC</string>
+    <string name="set_password">Password</string>
+    <string name="dialog_module_none">Module does not exist</string>
+    <string name="low_power">Low power UHF is forbidden</string>
+    <string name="high_temp">High temperature UHF is forbidden</string>
+    <string name="identify">Identify</string>
+    <string name="search">Search</string>
+    <string name="inventory">Inventory</string>
+    <string name="crd">Crd:</string>
+    <string name="DEV_OPEN_ERR">Device open failed！Software will quit！</string>
+    <string name="DIA_ALERT">Warning！</string>
+    <string name="DIA_CHECK">Confirm</string>
+
+    <string name="power_tips">range 5 ~ 30</string>
+    <string name="dialog_exit">Press OK to turn off uhf</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_title_warning">warning</string>
+    <string name="item_uhf_re">Continuous UHF</string>
+
+    <string name="dialog_uhf_off">UHF has been released. Please restart the application. </string>
+    <string name="total">Total:</string>
+    <string name="found">Found:</string>
+    <string name="not_found">Not Found:</string>
+    <string name="enter_user_name">Enter User Name</string>
+
+
+</resources>

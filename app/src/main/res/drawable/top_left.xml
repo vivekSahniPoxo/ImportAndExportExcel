@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- top_left.xml -->
+<!-- rounded_card_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners
+        android:topLeftRadius="72dp"
+        android:bottomLeftRadius="72dp"
+        android:topRightRadius="0dp"
+        android:bottomRightRadius="0dp"/>
+    <solid android:color="@color/white" />
+</shape>
